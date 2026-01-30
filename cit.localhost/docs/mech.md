@@ -25,3 +25,7 @@
 
 
 ## 7th sem subjects:
+### ME4701-Process Planning and Cost Estimation
+### ME4702-Automobile Engineering
+### ME4703-Industrial Internet of Things 
+
